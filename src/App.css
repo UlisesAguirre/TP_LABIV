@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+
+.App > div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  width: 40vh;
+  margin: 0 2em;
+  border: 1px solid #000;
+  border-radius: 1em;
+}
